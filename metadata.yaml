@@ -1,0 +1,47 @@
+_repo: The-Last-Fight-of-the-Revenge_66958
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Newbolt, Henry John, Sir
+    birthdate: 1862
+    deathdate: 1938
+    gutenberg_agent_id: '5279'
+    url: http://www.gutenberg.org/2009/agents/5279
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Newbolt
+  illustrator:
+    agent_name: Brangwyn, Frank
+    alias: Brangwyn, F. (Frank)
+    birthdate: 1867
+    deathdate: 1956
+    gutenberg_agent_id: '43146'
+    url: http://www.gutenberg.org/2009/agents/43146
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Brangwyn
+creator:
+  author:
+    agent_name: Raleigh, Walter Alexander, Sir
+    alias: Raleigh, Sir Walter Alexander
+    birthdate: 1861
+    deathdate: 1922
+    gutenberg_agent_id: '185'
+    url: http://www.gutenberg.org/2009/agents/185
+    wikipedia: https://en.wikipedia.org/wiki/Walter_Raleigh_(professor)
+description: ''
+gutenberg_issued: '2021-12-17'
+identifiers:
+  gutenberg: '66958'
+language: en
+pgterms:marc904: https://archive.org/details/lastfightofreven00rale
+pgterms:marc905: 20201005102709raleigh
+pgterms:marc906: '1908'
+pgterms:marc907: GB
+production_note: deaurider, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United Kingdom :Gibbings and Company,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Last Fight of the Revenge
+url: http://www.gutenberg.org/ebooks/66958
