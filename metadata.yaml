@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '43146'
     url: http://www.gutenberg.org/2009/agents/43146
     wikipedia: http://en.wikipedia.org/wiki/Frank_Brangwyn
+covers:
+- cover_type: archival
+  image_path: 66958-h/images/cover.jpg
 creator:
   author:
     agent_name: Raleigh, Walter Alexander, Sir
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/185
     wikipedia: https://en.wikipedia.org/wiki/Walter_Raleigh_(professor)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66958#The-Last-Fight-of-the-Revenge
 gutenberg_issued: '2021-12-17'
 identifiers:
   gutenberg: '66958'
